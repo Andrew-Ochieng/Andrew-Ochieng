@@ -22,6 +22,7 @@ A Frontend software developer & UI/UX Designer based in Nairobi, Kenya. I love s
 
 </br>
 </br>
+
  ## Tools used:
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
