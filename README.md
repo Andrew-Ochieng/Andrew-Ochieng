@@ -73,6 +73,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00AD9F?style=flat&logo=netlify&logoColor=white)
+
 
 <br>
 
