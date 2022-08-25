@@ -85,6 +85,10 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andrew-ochieng Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-ochieng&langs_count=10&layout=compact#" /></a>
 
+<summary>💻 Most used languages</summary>
+  
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+  
 <br>
 
 -----
