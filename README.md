@@ -1,4 +1,4 @@
-#### Hi there 👋, I'm Andrew Ochieng 😃 aka <strong>code_x</strong>
+### Hi there 👋, I'm Andrew Ochieng 😃 aka <strong>code_x</strong>
 
 <br>
 
