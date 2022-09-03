@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Andrew Ochieng 😃 aka <strong>code_x</strong>
+### Hi there 👋, I'm Andrew Ochieng 😃 aka <strong>Code_X</strong>
 
 <br>
 
@@ -13,7 +13,7 @@
 ## 📖 About me
 
 * 💻 I'm a Frontend software developer
-* 💻 I'm a Technical Mentor In Moringa School
+* 💻 I'm a Student at Moringa School
 * 🎨 I'm a self-taught UI/UX designer
 * 🍥 I'm also self-taught graphics designer
 * 🎓 I'm a Bachelors' Degree in Education Graduate
@@ -79,11 +79,6 @@
 <br>
 
 
-## 📈 Github Stats
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andrew-ochieng Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrew-ochieng&show_icons=true&count_private=true&hide=" /></a>
-
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andrew-ochieng Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-ochieng&langs_count=10&layout=compact#" /></a>
 
 <summary>💻 Most used languages</summary>
   
