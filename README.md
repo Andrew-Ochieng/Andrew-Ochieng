@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Andrew Ochieng 😃 
+### Hello 👋 I'm Andrew Ochieng 
 
 <br>
 
+[Twitter](https://twitter.com/drew_omosh) |
 [Linkedin](https://www.linkedin.com/in/andrew-ochieng-00b076180/) |
-[Website](https://andrew-ochieng.github.io/Portfolio-Andrew/) | 
-[Twitter](https://twitter.com/drew_omosh) | 
+[Website](https://andrew-ochieng.github.io/Portfolio-Andrew/) |  
 [Company](https://codialsolutions.netlify.app/)
 
 
@@ -65,8 +65,4 @@
   
   <b>Note:</b> I'm open to collaborations with any person or organization on any project(s) that are aimed at making a difference in the world we live in.
   
-<br>
-
------
-Credits: [Andrew-Ochieng](https://github.com/Andrew-Ochieng)
 
