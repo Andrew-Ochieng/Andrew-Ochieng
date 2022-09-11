@@ -4,7 +4,7 @@
 
 [Twitter](https://twitter.com/drew_omosh) |
 [Linkedin](https://www.linkedin.com/in/andrew-ochieng-00b076180/) |
-[Website](https://andrew-ochieng.github.io/Portfolio-Andrew/) |
+[Website](https://andrewomosh.netlify.app/) |
 [Company](https://codialsolutions.netlify.app/)
 
 
