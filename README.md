@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Andrew Ochieng 😃 aka <strong>Code_X</strong>
+### Hi there 👋, I'm Andrew Ochieng 😃 
 
 <br>
 
@@ -12,20 +12,13 @@
 
 ## 📖 About me
 
-* 💻 I'm a Frontend software developer
 * 💻 I'm a Student at Moringa School
-* 🎨 I'm a self-taught UI/UX designer
+* 💻 I'm a Junior Frontend software developer
 * 🍥 I'm also self-taught graphics designer
-* 🎓 I'm a Bachelors' Degree in Education Graduate
-* 🌐 You can see some of my projects on [my portfolio](https://andrew-ochieng.github.io/Portfolio-Andrew/)
+* 🎨 I also learn UI/UX design during my spare time
+* 🎓 I'm a Bachelors' Degree Graduate in Education
+* 🌐 You can see some of my projects on [my portfolio](https://andrewomosh.netlify.app/)
 
-
-
-<p align="left">
-  <a href="https://andrew-ochieng.github.io/Portfolio-Andrew">
-  <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/>
-  </a>
-</p>
 
 </br>
 
@@ -50,11 +43,6 @@
 </p>
 
 
-
-<p align="left">
-  <a href="https://github.com/andrew-ochieng?tab=repositories"><img alt="Repositories" title="Repositories" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</p>
-
 <br>
 
  ## 👨‍💻 Languages & Tools:
@@ -63,15 +51,13 @@
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-07405E?style=flat&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00AD9F?style=flat&logo=netlify&logoColor=white)
 
@@ -79,10 +65,9 @@
 <br>
 
 
-
-<summary>💻 Most used languages</summary>
+<summary>💻 Programming Student Forever: </summary>
   
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+  <b>Note:</b> I'm open to collaborations with any person or organization on any project(s) that are aimed at making a difference in the world we live in.
   
 <br>
 
