@@ -13,26 +13,15 @@
 ## 📖 About me
 
 * 💻 I'm a Student at Moringa School
-* 💻 I'm a Junior Frontend software developer
-* 🍥 I'm also self-taught graphics designer
+* 💻 An entry-level Junior Software developer
+* 🍥 I've done some graphics design before
 * 🎨 I also learn UI/UX design during my spare time
-* 🎓 I'm a Bachelors' Degree Graduate in Education
+* 🎓 I'm a trained teacher by profession with lots of interest in tech
 * 🌐 You can see some of my projects on [my portfolio](https://andrewomosh.netlify.app/)
 
 
 </br>
 
-
-## 🔥 My contribution streak
-
-<br>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=andrew-ochieng&count_private=true&show_icons=true&theme=cobalt">
-  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=andrew-ochieng&">
-</a>
-
-<br>
-<br>
-<br>
 
 ## 🙋‍♂️ Connect with me:
 
