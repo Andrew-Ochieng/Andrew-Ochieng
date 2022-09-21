@@ -33,15 +33,15 @@
 </br>
 </br>
 
-<img align = "left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Ochieng&layout=compact"/>
-<img align = "left" width = "45%" src = "https://github-readme-stats.vercel.app/api?username=Andrew-Ochieng&show_icons=true&theme=cobalt"/>
+<img align = "left" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=Andrew-Ochieng&show_icons=true&theme=cobalt"/>
+
+<img align = "left" width = "50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Ochieng&layout=compact"/>
+
 
 
 
 </br>
 </br>
-</br>
-
 
 
 <summary>💻 Programming Student Forever: </summary>
