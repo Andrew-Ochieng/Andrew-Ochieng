@@ -1,22 +1,26 @@
-### Hello 👋 I'm Andrew Ochieng 
+| [![Andrew Ochieng](https://img.shields.io/badge/ANDREW-OCHIENG-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Andrew-Ochieng&color=green) | ![Followers](https://img.shields.io/github/followers/Andrew-Ochieng) | ![Stars](https://img.shields.io/github/stars/Andrew-Ochieng?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
+--| --| --| --|
+
+### Hello there, I'm Andrew (Drew) 👋  
 
 <br>
 
-[Twitter](https://twitter.com/drew_omosh) |
+<!-- [Twitter](https://twitter.com/drew_omosh) |
 [Linkedin](https://www.linkedin.com/in/andrew-ochieng-00b076180/) |
 [Portfolio](https://andrewomosh.netlify.app/) |
 [Company](https://codialsolutions.netlify.app/)
 
+--- -->
 
----
-
-## 📖 About me
+## 📖 BIO
 
 * 💻 I'm a Student at Moringa School
-* 💻 An entry-level Junior Software developer
+* 💻 A Junior Software Developer
 * 🍥 I've done some graphics design before
-* 🎨 I also learn UI/UX design during my spare time
+* 🌱 I learn a bit of UI/UX design during my spare time
 * 🎓 I'm a trained teacher by profession with lots of interest in tech
+* 💬 Ping me about Development, Graphics & UI Design.
+* 🤔 I’m looking for help with  Backend Development especially with Ruby and Python languages.
 * 🌐 You can see some of my projects on [my portfolio](https://andrewomosh.netlify.app/)
 
 </br>
