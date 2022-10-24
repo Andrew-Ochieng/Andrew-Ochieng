@@ -19,7 +19,7 @@
 * 🍥 I've done some graphics design before
 * 🌱 I learn a bit of UI/UX design during my spare time
 * 🎓 I'm a trained teacher by profession with lots of interest in tech
-* 💬 Ping me about Development, Graphics & UI Design.
+* 💬 Ping me about Frontend Web Development, Graphics & UI Design.
 * 🤔 I’m looking for help with  Backend Development especially with Ruby and Python languages.
 * 🌐 You can see some of my projects on [my portfolio](https://andrewomosh.netlify.app/)
 
