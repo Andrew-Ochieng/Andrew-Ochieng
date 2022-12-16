@@ -67,7 +67,8 @@
     <img style="margin: 10px" src="https://i.ibb.co/zG2M2QT/ruby-log-removebg-preview.png" alt="Ruby" height="25" />    
     <img style="margin: 10px" src="https://i.ibb.co/gWH1NMr/Ruby-On-Rails-Logo-svg-removebg-preview.png" alt="Rails" height="25" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />   
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="Postgresql" height="25" />    
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="Postgresql" height="25" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />    
     </div>
 
 </td>
