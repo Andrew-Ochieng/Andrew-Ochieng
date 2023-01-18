@@ -49,7 +49,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Nextjs" height="25" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vue-original-wordmark.svg" alt="Vue" height="25" />   
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vuejs" height="25" />   
   </div>
 
 </td>
