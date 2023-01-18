@@ -5,22 +5,17 @@
 
 <br>
 
-<!-- [Twitter](https://twitter.com/drew_omosh) |
-[Linkedin](https://www.linkedin.com/in/andrew-ochieng-00b076180/) |
-[Portfolio](https://andrewomosh.netlify.app/) |
-[Company](https://codialsolutions.netlify.app/)
 
---- -->
 
 ## 📖 BIO
 
 * 🎓 I'm a teacher by profession 
 * 💻 Also a Junior Software Developer
-* 🍥 I've done a bit of graphics design before
-* 🌱 I'm currently learning Ruby on Rails
+* 🍥 I love art & graphics design for that matter
+* 🌱 I'm currently learning Vue & Nextjs
 * 💬 Ping me about Frontend Web Development & Graphics
-* 👯 I'm looking forward to collaborate in React & Ruby Projects
-* 🔭 Also looking for help with Ruby & Python Programming Languages
+* 👯 I'm looking forward to collaborate in Frontend & UI Design Projects
+* 🔭 Also looking for help with Ruby, Python & UI/UX Design.
 * 🌐 You can see some of my projects on [my portfolio](https://andrewoochieng.netlify.app/)
 
 </br>
@@ -82,7 +77,7 @@
 
 <summary>💻 Programming Student Forever: </summary>
   
-  <b>Note:</b> I'm also open to collaborations in open-source projects. Do reach out through the links provided. 
+  <b>Note:</b> I'm open to collaborations in open-source projects. Do reach out through the links provided. 
   
 <br>
 
