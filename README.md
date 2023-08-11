@@ -1,23 +1,18 @@
 | [![Andrew Ochieng](https://img.shields.io/badge/ANDREW-OCHIENG-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Andrew-Ochieng&color=green) | ![Followers](https://img.shields.io/github/followers/Andrew-Ochieng) | ![Stars](https://img.shields.io/github/stars/Andrew-Ochieng?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
 --| --| --| --|
-
-### Hello there, I'm Andrew (Drew) 👋  
-
 <br>
-
 
 
 ## 📖 BIO
 
-* 😀 I'm a fullstack software developer 
-* 🎓 Also a trained teacher; yet with experience in computer hardware & graphics design 
-* 🔭 I’m currently working on **an agritech system & health-based e-commerce site**
-* 🌱 Currently learning **Node, Express, Mongodb & Firebase**
-* 👯 I'm looking to collaborate in **React, Ruby on Rails & Firebase Projects**
-* 🤔 Looking for help with **Role Based Authentication in Nodejs/Ruby on rails and React**
+*  👋 Hello! I'm Andrew Ochieng a Fullstack Software Developer 
+* 🎓 Also a trained teacher, with experience in computer hardware & graphics design.
+* 🔭 I’m currently working on **an agritech application.**
+* 🌱 Currently learning **Node, Express, Mongodb, Supabase & Firebase.**
+* 👯 I'm open for open-source projects collaboration.
+* 🤔 Looking for help on **Techical Writing**
 * 💬 Ping me about Frontend Development, UI/UX & Graphics Design
-* 🍥 I love exploring new places in my spare time
-* 🌐 You can see some of my projects on [my portfolio](https://github.com/Andrew-Ochieng?tab=repositories)
+* 💡 In my free time, I enjoy listening to country music, watching documentaries & nature walks.  
 
 </br>
 
