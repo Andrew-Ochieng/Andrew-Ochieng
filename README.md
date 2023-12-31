@@ -5,13 +5,14 @@
 
 ## 📖 BIO
 
-*  👋 Hello! I'm Andrew Ochieng a Fullstack Software Developer 
-* 🎓 Also a trained teacher, with experience in computer hardware & graphics design.
-* 🔭 I’m currently working on **an agritech application.**
-* 🌱 Currently learning **Node.js, Typescript & Headless CMS.**
-* 👯 I'm open for open-source projects collaboration.
-* 🤔 Looking for help on **Techical Writing**
-* 💬 Ping me about Frontend Development, UI/UX & Graphics Design
+*  👋 Hello! I'm Andrew Ochieng a Fullstack Software Developer.
+
+* 🚀 I enjoy turning ideas into functional software applications, learning new technologies and mentoring upcoming techees.
+
+* I have over 2+ years of experience designing and building software to enhance end-user functionality.
+
+* 🌱 Logic, Design, Communication and Teamwork are my greatest strengths.
+
 * 💡 In my free time, I enjoy listening to country music, watching documentaries & nature walks.  
 
 </br>
@@ -42,15 +43,12 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" />
   <img style="margin: 10px" src="https://i.ibb.co/WfSJkqn/tailwindcss-removebg-preview.png" alt="Tailwindcss" height="30" />    
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="30" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Nextjs" height="30" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vuejs" height="30" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Firebase" height="30" />
+  <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="30" /></a>  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="30" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Firebase" height="30" />   
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="30" />   
   </div>
-
 </td>
 
 <td valign="top" width="50%">
@@ -59,18 +57,24 @@
   <div>       
     <img style="margin: 10px" src="https://i.ibb.co/zG2M2QT/ruby-log-removebg-preview.png" alt="Ruby" height="30" />    
     <img style="margin: 10px" src="https://i.ibb.co/gWH1NMr/Ruby-On-Rails-Logo-svg-removebg-preview.png" alt="Rails" height="30" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />   
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="Postgresql" height="30" />
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /> 
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"
     height="30" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" 
-    alt="Express.js" height="30" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" />  
   </div>
 
+
+
+</td>
+
+<td valign="top" width="50%">
+
   ### Design  
+
   <div >  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" 
     alt="Git" 
@@ -79,7 +83,6 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Bash" 
     height="30" />  
   </div>
-
 </td>
 
 </tr>
