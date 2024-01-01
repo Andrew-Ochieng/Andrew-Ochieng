@@ -3,7 +3,7 @@
 
 <br>
 
-## 📖 BIO
+## 📖 About Me
 
 *  👋 Hello! I'm Andrew Ochieng a Fullstack Software Developer.
 
@@ -34,7 +34,7 @@
   <tr>
     <td valign="top" >
 
-  ### Frontend  
+
   <div>  
   <img style="margin: 10px 0px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
   <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /> 
@@ -49,7 +49,7 @@
   <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="40" />   
   </div>
 
-  ### Backend  
+
   <div>       
     <img style="margin: 10px 0px" src="https://i.ibb.co/zG2M2QT/ruby-log-removebg-preview.png" alt="Ruby" height="40" />    
     <img style="margin: 10px; margin-right: 40px" src="https://i.ibb.co/gWH1NMr/Ruby-On-Rails-Logo-svg-removebg-preview.png" alt="Rails" height="40" />  
@@ -64,7 +64,6 @@
     <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />  
   </div>
 
-  ### Design  
 
   <div >  
     <img style="margin: 10px 0px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40">  
