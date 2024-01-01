@@ -13,6 +13,8 @@
 
 * 🌱 Logic, Design, Communication and Teamwork are my greatest strengths.
 
+* 👯 I’m looking to collaborate on open-source projects especially on Javascript and Python
+
 * 💡 In my free time, I enjoy listening to country music, watching documentaries & nature walks.  
 
 </br>
@@ -30,53 +32,8 @@
 
 ## Languages & tools:
 
-<table>
-  <tr>
-    <td valign="top" >
-
-
-  <div>  
-  <img style="margin: 10px 0px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
-  <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /> 
-  <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
-  <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
-  <img style="margin: 10px; margin-right: 40px" src="https://i.ibb.co/WfSJkqn/tailwindcss-removebg-preview.png" alt="Tailwindcss" height="40" />    
-  <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />  
-  <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Nextjs" height="40" />
-  <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /> 
-  <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>  
-  <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" />
-  <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="40" />   
-  </div>
-
-
-  <div>       
-    <img style="margin: 10px 0px" src="https://i.ibb.co/zG2M2QT/ruby-log-removebg-preview.png" alt="Ruby" height="40" />    
-    <img style="margin: 10px; margin-right: 40px" src="https://i.ibb.co/gWH1NMr/Ruby-On-Rails-Logo-svg-removebg-preview.png" alt="Rails" height="40" />  
-    <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
-    <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" />
-    <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />   
-    <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="Postgresql" height="40" />
-    <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />  
-    <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /> 
-    <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"
-    height="40" />
-    <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />  
-  </div>
-
-
-  <div >  
-    <img style="margin: 10px 0px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40">  
-    <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" />     
-    <img style="margin: 10px; margin-right: 40px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Bash" 
-    height="40" />  
-  </div>
-</td>
-
-
-
-
-</tr>
-</table>
+<p valign="left">
+    <img  src="https://skillicons.dev/icons?i=python,django,rails,ruby,js,ts,react,nextjs,redux,postgres,mysql,sqlite,firebase,supabase,postman,html,css,tailwind,bootstrap,git,github,docker,wordpress,figma ,ai,xd,ps" />
+</p>
 
 
