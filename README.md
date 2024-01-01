@@ -9,7 +9,7 @@
 
 * 🚀 I enjoy turning ideas into functional software applications, learning new technologies and mentoring upcoming techees.
 
-* I have over 2+ years of experience designing and building software to enhance end-user functionality.
+* 🥑 I have over 2+ years of experience designing and building software applications that enhance end-user functionality.
 
 * 🌱 Logic, Design, Communication and Teamwork are my greatest strengths.
 
@@ -49,9 +49,6 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="30" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="30" />   
   </div>
-</td>
-
-<td valign="top" width="50%">
 
   ### Backend  
   <div>       
@@ -67,12 +64,6 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" />  
   </div>
 
-
-
-</td>
-
-<td valign="top" width="50%">
-
   ### Design  
 
   <div >  
@@ -84,6 +75,9 @@
     height="30" />  
   </div>
 </td>
+
+
+
 
 </tr>
 </table>
