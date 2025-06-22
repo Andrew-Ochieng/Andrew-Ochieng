@@ -33,7 +33,7 @@
 ## Languages & tools:
 
 <p valign="left">
-    <img  src="https://skillicons.dev/icons?i=python,django,rails,ruby,js,ts,react,nextjs,redux,postgres,mysql,sqlite,firebase,supabase,postman,html,css,tailwind,bootstrap,git,github,docker,wordpress,figma ,ai,xd,ps" />
+    <img  src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,redux,jquery,python,django,postgres,sqlite,supabase,mongodb,html,css,tailwind,bootstrap,git,github,docker,wordpress,figma ,ai,xd,ps" style="width: 500px" />
 </p>
 
 
