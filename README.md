@@ -29,6 +29,6 @@
 
 </br>
 
-## Languages & tools:
+## 💻 Tech Stack
 
-<img  src="https://skillicons.dev/icons?i=python,django,rails,ruby,js,ts,react,nextjs,redux,postgres,mysql,sqlite,firebase,supabase,postman,html,css,tailwind,bootstrap,git,github,docker,wordpress,figma ,ai,xd,ps" style="width: 500px"/>
+<img  src="https://skillicons.dev/icons?i=laravel,php,js,ts,react,nextjs,redux,jquery,postgres,sqlite,mongodb,css,sass,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" style="width: 500px" />
