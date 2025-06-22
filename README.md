@@ -20,15 +20,24 @@
 
 ## 🙋‍♂️ Let's Connect:
 
-<p valign="left">
-  <a href="https://www.linkedin.com/in/andrew-ochieng-00b076180/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/dev__drew"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/andrew-ochieng"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/andrew-ochieng?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-</p>
+<div align="left" style="display:flex; gap: 15px;">
+  <a href="https://x.com/dev__drew" style="text-decoration: none;">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/40/x.png" alt="x"/>
+  </a>
+  <a href="https://www.linkedin.com/in/andrew-ochieng-00b076180" style="text-decoration: none;">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/40/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/andrew-ochieng" style="text-decoration: none;">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/40/github.png" alt="github"/>
+  </a>
+  <a href="https://andrewochieng.netlify.app" style="text-decoration: none;">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/40/link.png" alt="link"/>
+  </a>
+</div>
 
 
 </br>
 
 ## 💻 Tech Stack
 
-<img  src="https://skillicons.dev/icons?i=laravel,php,js,ts,react,nextjs,redux,jquery,postgres,sqlite,mongodb,css,sass,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" style="width: 500px" />
+<img  src="https://skillicons.dev/icons?i=python,django,rails,ruby,js,ts,react,nextjs,redux,postgres,mysql,firebase,supabase,postman,html,css,tailwind,bootstrap,git,github,docker,wordpress,figma,ai,xd,ps" style="width: 500px"/>
