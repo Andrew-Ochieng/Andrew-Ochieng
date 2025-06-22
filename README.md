@@ -9,13 +9,12 @@
 
 * 🚀 I enjoy turning ideas into functional software applications, learning new technologies and mentoring upcoming techees.
 
-* 🥑 I have over 2+ years of experience designing and building software applications that enhance end-user functionality.
+* 🥑 I have over 3+ years of experience designing and building software applications that enhance end-user functionality.
 
 * 🌱 Logic, Design, Communication and Teamwork are my greatest strengths.
 
-* 👯 I’m looking to collaborate on open-source projects especially on Javascript and Python
+* 👯 I’m looking to collaborate on open-source projects 
 
-* 💡 In my free time, I enjoy listening to country music, watching documentaries & nature walks.  
 
 </br>
 
@@ -32,8 +31,4 @@
 
 ## Languages & tools:
 
-<p valign="left">
-    <img  src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,redux,jquery,python,django,postgres,sqlite,supabase,mongodb,html,css,tailwind,bootstrap,git,github,docker,wordpress,figma ,ai,xd,ps" style="width: 500px" />
-</p>
-
-
+<img  src="https://skillicons.dev/icons?i=python,django,rails,ruby,js,ts,react,nextjs,redux,postgres,mysql,sqlite,firebase,supabase,postman,html,css,tailwind,bootstrap,git,github,docker,wordpress,figma ,ai,xd,ps" style="width: 500px"/>
