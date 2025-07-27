@@ -5,11 +5,9 @@
 
 ## 📖 About Me
 
-*  👋 Hello! I'm Andrew Ochieng a Fullstack Software Developer.
+*  👋 Hello! I'm Andrew Ochieng a Software Developer.
 
 * 🚀 I enjoy turning ideas into functional software applications, learning new technologies and mentoring upcoming techees.
-
-* 🥑 I have over 3+ years of experience designing and building software applications that enhance end-user functionality.
 
 * 🌱 Logic, Design, Communication and Teamwork are my greatest strengths.
 
